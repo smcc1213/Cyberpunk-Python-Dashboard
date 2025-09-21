@@ -1,6 +1,6 @@
 # Cyberpunk Dashboard
 
-A neon cyberpunk-themed system dashboard built with **Python (PyQt5)** that integrates:
+A neon cyberpunk-themed system dashboard built with **Python (PyQt5)** that runs on Linux (Ubuntu) and integrates:
 
 - 🕶️ Zeek log viewer with syntax highlighting  
 - 🌤️ Live weather with automatic location detection  
