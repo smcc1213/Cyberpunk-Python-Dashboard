@@ -37,7 +37,7 @@ USER_NAME="YOUR NAME"
 ZEEK_LOG_DIR="/home/cyberpunk_dashboard/zeek_logs"
 ZEEK_INTERFACE="wlp4s0"
 WEATHER_API_KEY="your_openweathermap_api_key"
-
+```
 
 
 <img width="1913" height="1079" alt="Screenshot from 2025-09-21 13-55-53" src="https://github.com/user-attachments/assets/6141b0f7-0afc-41a1-8d80-d38e2aee0e77" />
