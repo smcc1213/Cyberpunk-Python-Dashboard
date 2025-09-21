@@ -33,7 +33,7 @@ This app uses a **`.env` file** for custom settings. Create a `.env` file in the
 
 ```env
 # .env
-USER_NAME=\"YOUR NAME\"
-ZEEK_LOG_DIR=\"/home/cyberpunk_dashboard/zeek_logs\"
-ZEEK_INTERFACE=\"wlp4s0\"
-WEATHER_API_KEY=\"your_openweathermap_api_key\"
+USER_NAME="YOUR NAME"
+ZEEK_LOG_DIR="/home/cyberpunk_dashboard/zeek_logs"
+ZEEK_INTERFACE="wlp4s0"
+WEATHER_API_KEY="your_openweathermap_api_key"
